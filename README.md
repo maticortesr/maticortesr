@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Matias 👋
+
+I'm a Senior Software Engineer in the Boston area.
+
+[Personal Website](http://matiascortes.com)
+
+🔭 Currently working on everything MLOps  
+🌱 Currently learning Rust :crab:  
+📫 How to reach me: Freelancing? hit me at contact@matiascortes.com  
+
 
 <!--
 **maticortesr/maticortesr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
