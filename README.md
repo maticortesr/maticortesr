@@ -5,7 +5,6 @@ I'm a Senior Software Engineer in the Boston area.
 [Personal Website](http://matiascortes.com)
 
 🔭 Currently working on everything MLOps  
-🌱 Currently learning Rust :crab:  
 📫 How to reach me: Freelancing? hit me at contact@matiascortes.com  
 
 
